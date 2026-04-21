@@ -2,6 +2,9 @@
   "name": "flashcard-engine",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +14,6 @@
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "pdf-parse": "^1.1.1",
-    "better-sqlite3": "^9.4.3"
+    "pdf-parse": "^1.1.1"
   }
 }
