@@ -70,7 +70,7 @@ GROQ_API_KEY=your_api_key_here
 npm run dev  
 
 App will run on:  
-http://localhost:3000  
+(https://the-flashcard-engine-rust.vercel.app/)
 
 ---
 
