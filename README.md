@@ -106,6 +106,7 @@ This project can be easily deployed using Vercel:
 
 <img width="1909" height="907" alt="image" src="https://github.com/user-attachments/assets/4d326a67-af71-4c18-973c-4ef4502388ef" />
 
+.
 
 <img width="1910" height="911" alt="image" src="https://github.com/user-attachments/assets/2d8f278f-778e-4443-a237-df3f199af14a" />
 
